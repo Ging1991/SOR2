@@ -2,7 +2,7 @@
 
 **Materia:** Sistemas Operativos y Redes II.
 **Grupo:** 2.
-**Integrantes:** Ezequiel Ravignani, Carlos Caballero, Cristian Yoel, Garay Juan Farias y Pablo Igei Nakagawa.
+**Integrantes:** Ezequiel Ravignani, Carlos Caballero, Cristian Yoel Garay, Juan Farias y Pablo Igei Nakagawa.
 
 ## Archivos del proyecto
 
